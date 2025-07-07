@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PremierComponent } from './premier.component';
+import { FaceSnapComponent } from './face-snap.component';
 
-describe('PremierComponent', () => {
-  let component: PremierComponent;
-  let fixture: ComponentFixture<PremierComponent>;
+describe('FaceSnapComponent', () => {
+  let component: FaceSnapComponent;
+  let fixture: ComponentFixture<FaceSnapComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [PremierComponent]
+      imports: [FaceSnapComponent]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(PremierComponent);
+    fixture = TestBed.createComponent(FaceSnapComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
