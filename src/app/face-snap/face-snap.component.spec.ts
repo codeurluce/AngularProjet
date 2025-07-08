@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { FaceSnapComponent } from './face-snap.component';
 
 describe('FaceSnapComponent', () => {
