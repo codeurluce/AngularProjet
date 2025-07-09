@@ -1,6 +1,6 @@
 # 📘 Snapface - Projet Angular
 
-Bienvenue dans Snapface, une application Angular développée dans le cadre de mon apprentissage du framework Angular. Ce projet a été réalisé pas à pas en suivant un cours complet destiné aux développeurs débutants/intermédiaires souhaitant découvrir les fondations de ce framework moderne.
+Bienvenue dans Snapface, une application Angular développée dans le cadre de mon apprentissage du framework Angular. Il s'agit d’un projet de type réseau social simplifié, qui permet de consulter et d’interagir avec des photos partagées par les utilisateurs.
 
 ## 🌐 Aperçu
 
