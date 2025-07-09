@@ -42,5 +42,3 @@ L’objectif principal était de maîtriser les bases du framework Angular. À t
 ## 📚 À propos du cours
 
 Ce projet s’inscrit dans le cadre du cours "Développez des applications web avec Angular", qui constitue une première immersion dans le développement front-end avec Angular. Le but principal est de pratiquer les concepts appris en construisant une application concrète.
-
-## 🎓 Résultat attendu
